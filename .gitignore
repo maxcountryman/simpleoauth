@@ -1,0 +1,8 @@
+build/*
+docs/_build/*
+tests_output/*
+dist/*
+virtualenv/*
+.coverage
+!.gitignore
+*.egg-info
